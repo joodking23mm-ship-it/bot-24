@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "vortixMC1.aternos.me
+",
+    "port": 22376,
     "version": "",
     "try-creative": false
   },
