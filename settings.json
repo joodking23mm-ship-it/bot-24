@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vortixMC1.aternos.me",
-    "port": 22376
+    "port": "22376",
     "version": "",
     "try-creative": false
   },
